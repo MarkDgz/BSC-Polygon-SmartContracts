@@ -1,5 +1,7 @@
 # BSC-Polygon-SmartContracts
 
+You can find the Smart Contracts in links below:
+
 [For Stay Gold Crypto Website (staygoldcrypto.com)](https://staygoldcrypto.com)
 [Github of Stay Gold Crypto](https://github.com/StayGoldCrypto)
 
@@ -22,3 +24,4 @@ Polygon Contracts
 If you like our project please give us your support.
 
 Regards
+
